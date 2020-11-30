@@ -1,1 +1,2 @@
-print('good day')
+name = input("Как Вас зовут? ")
+print("Привет,", name)
